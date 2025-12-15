@@ -10,7 +10,12 @@ You can check out my research papers [here](https://arxiv.org/a/ar_l_2.html) if 
 
 ## food science and packaged foods related - specific to India
 The Adaptive Informatics Challenge in Indian Packaged Food Health Scoring
-check `packaged-foods/` folder
+
+in a nutshell, india has loads of packaged foods right, but why is it so hard to come up with a stable food rater that could tell us how healthy a packaged food is
+
+you gotta analysis across food safety regulations, Computational Gastronomy and Food Informatics—the area known as the Ingredient Interaction Problem and other similar areas to draft the paper
+
+check `packaged-foods/` folder for rough paper outline and also detailed potential analysis along with literature review to help you out
 
 ## mental health - specific to India
 
